@@ -10,6 +10,10 @@ namespace Task6_git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Введите чисо 1")
+                int number 1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите число 2")
+                int number 2 = int.Parse(Console.ReadLine());
         }
     }
 }
