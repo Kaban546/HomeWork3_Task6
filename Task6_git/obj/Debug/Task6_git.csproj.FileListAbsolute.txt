@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\obj\Debug\Task6_git.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\obj\Debug\Task6_git.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\bin\Debug\Task6_git.exe.config
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\bin\Debug\Task6_git.exe
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\bin\Debug\Task6_git.pdb
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\obj\Debug\Task6_git.exe
+C:\Users\User\Source\Repos\HomeWork3_Task6\Task6_git\obj\Debug\Task6_git.pdb
